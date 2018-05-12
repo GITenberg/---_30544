@@ -1,0 +1,31 @@
+_repo: '---_30544'
+_version: 0.1.0
+alternative_title: 'Wuxiaozhuan : Five (sets of) filial piety biographies'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tao, Qian
+    aliases:
+    - Tao, Yuanming
+    - 陶潜
+    - 陶潛
+    birthdate: 365
+    deathdate: 427
+    gutenberg_agent_id: '2479'
+    url: http://www.gutenberg.org/2009/agents/2479
+    wikipedia:
+    - http://zh.wikipedia.org/wiki/%E9%99%B6%E6%B7%B5%E6%98%8E
+    - http://en.wikipedia.org/wiki/Tao_Qian
+description: ''
+gutenberg_issued: '2009-11-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30544'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 五孝傳
+url: http://www.gutenberg.org/ebooks/30544
