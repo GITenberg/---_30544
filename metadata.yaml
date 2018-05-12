@@ -19,6 +19,8 @@ creator:
     - http://zh.wikipedia.org/wiki/%E9%99%B6%E6%B7%B5%E6%98%8E
     - http://en.wikipedia.org/wiki/Tao_Qian
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30544#---
 gutenberg_issued: '2009-11-25'
 gutenberg_type: Text
 identifiers:
